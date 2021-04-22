@@ -1,0 +1,35 @@
+body{
+    background: linear-gradient(#DDA0DD,#800080,#E6E6FA);
+}
+
+.line {
+    height: 6px;
+    background-color: #000;
+    width: 70px margin: 8px auto;
+}
+
+#game {
+    width: 100%;
+    height: 800px;
+    background-color: lightcoral;
+}
+
+img {
+    transition: transform .2s;
+}
+<iframe
+
+    allow="microphone;"
+
+    width="350"
+
+    height="430"
+
+    src="https://console.dialogflow.com/api-client/demo/embedded/4395b298-3e04-4fe0-89ef-072c41808498">
+
+</iframe>
+
+     
+img:hover {
+    transform: scale (0.9);
+}
